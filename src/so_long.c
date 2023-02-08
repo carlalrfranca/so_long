@@ -6,7 +6,7 @@
 /*   By: cleticia <cleticia@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/09/17 21:24:37 by cleticia          #+#    #+#             */
-/*   Updated: 2021/10/19 20:55:20 by cleticia         ###   ########.fr       */
+/*   Updated: 2023/02/08 09:15:18 by cleticia         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,8 +14,8 @@
 
 static void	*open_img(t_map *map, char *filename)
 {
-	int		height;
-	int		width;
+	int	height;
+	int	width;
 	void	*ptr;
 
 	height = 0;

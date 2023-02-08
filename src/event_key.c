@@ -6,7 +6,7 @@
 /*   By: cleticia <cleticia@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/09/17 21:24:37 by cleticia          #+#    #+#             */
-/*   Updated: 2021/10/14 16:21:09 by cleticia         ###   ########.fr       */
+/*   Updated: 2023/02/08 08:51:51 by cleticia         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -38,7 +38,6 @@ static void	move_gammer(t_map *map, int x, int y)
 		{
 			if (map->collect == 0)
 			{
-				write (1, "Congratulations!!!You got all coins.\n", 37);
 				end_program(map);
 			}
 		}
