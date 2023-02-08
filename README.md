@@ -6,8 +6,6 @@ The purpose of this project is to develop a very small 2D game using minilibX - 
 Get keyboard and mouse input, manages screen, keyboard and mouse. <br>
 <br>
 
-![so_long](https://github.com/carlarfranca/so_long/blob/07894cb2cadcc50a3aec9d3913a42301dded02b1/mae_so_long.gif)
-
 ### Instructions
 
   ➜ Clone repo <br>
